@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109257755644",
+    "project_id": "realhackeddemo",
+    "storage_bucket": "realhackeddemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109257755644:android:1243017f9cd0be914d0079",
+        "android_client_info": {
+          "package_name": "com.example.realhackeddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109257755644-ttsfpirpc0imc1558ou85rd737ipakuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi8Jnr4yyid6rxnk1fouGfZQ9kmhoBylc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109257755644-ttsfpirpc0imc1558ou85rd737ipakuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
